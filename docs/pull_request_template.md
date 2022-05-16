@@ -34,6 +34,7 @@ Please delete options that are not relevant.
 
 - [ ] PRODUCT
   - [ ] Put PR link on ticket
+  - [ ] Put ticket id on PR title
   - [ ] Move the ticket
   - [ ] Put the time spent on this task on ticket
 - [ ] DEVELOPERS
